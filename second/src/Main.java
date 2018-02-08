@@ -17,6 +17,7 @@ public class Main
         System.out.print("Борода? ");
         String beard = reader.readLine();
 
+
         int iAge = Integer.parseInt(age);
         int iMoney = Integer.parseInt(money);
         boolean bBeard = Boolean.parseBoolean(beard);
